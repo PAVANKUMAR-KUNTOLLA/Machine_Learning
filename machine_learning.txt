@@ -1,0 +1,14 @@
+1.1 What Is Machine Learning?
+Machine learning is programming computers to optimize a performance criterion using example
+data or past experience. We have a model defined up to some parameters, and learning is the
+execution of a computer program to optimize the parameters of the model using the training data or
+past experience. The model may be predictive to make predictions in the future, or descriptive to gain
+knowledge from data, or both.
+Arthur Samuel, an early American leader in the field of computer gaming and artificial intelligence,
+coined the term “Machine Learning” in 1959 while at IBM. He defined machine learning as “the field of
+study that gives computers the ability to learn without being explicitly programmed.” However, there is
+no universally accepted definition for machine learning. Different authors define the term differently.
+Definition of learning
+Definition
+A computer program is said to learn from experience E with respect to some class of tasks T and
+performance measure P, if its performance at tasks T, as measured by P, improves with experience E.
